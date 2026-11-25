@@ -2,8 +2,7 @@ cask "macaway" do
   version "1.3.0"
   sha256 "75e3df50d77b694fb0902118f26cf9ae54334f72467bc8510be67b5a1fa132a4"
 
-  url "https://github.com/robertbrada/macaway-releases/releases/download/archives/MacAway-#{version}.zip",
-      verified: "github.com/robertbrada/macaway-releases/"
+  url "https://github.com/robertbrada/macaway-releases/releases/download/archives/MacAway-#{version}.zip"
   name "MacAway"
   desc "Lock the screen when your iPhone or Apple Watch moves away"
   homepage "https://macaway.app/"
