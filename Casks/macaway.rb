@@ -1,6 +1,6 @@
 cask "macaway" do
-  version "1.3.0"
-  sha256 "75e3df50d77b694fb0902118f26cf9ae54334f72467bc8510be67b5a1fa132a4"
+  version "1.3.1"
+  sha256 "61f2cc32cdf51954c29ed3e7db7ff319deaa6aeb9cf55294630713e3f7ce79db"
 
   url "https://github.com/robertbrada/macaway-releases/releases/download/archives/MacAway-#{version}.zip"
   name "MacAway"
